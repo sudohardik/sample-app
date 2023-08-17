@@ -47,7 +47,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: sudohardik/sample-flask-app:6
+      - image: sudohardik/sample-flask-app:8
         name: flaskdemo
         resources: {}
 status: {}
